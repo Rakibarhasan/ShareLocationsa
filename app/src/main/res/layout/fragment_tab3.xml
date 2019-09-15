@@ -60,9 +60,9 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="117dp"
-        android:layout_height="149dp"
-        android:background="@drawable/sabit2"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:background="@drawable/bir"
         app:layout_constraintBottom_toBottomOf="@+id/button"
         app:layout_constraintEnd_toEndOf="@+id/button"
         app:layout_constraintHorizontal_bias="0.896"
@@ -80,7 +80,7 @@
         android:layout_marginRight="8dp"
         android:background="@drawable/yes"
         android:gravity="center"
-        android:text="Md.Sabit Haassan"
+        android:text="Member"
         android:textColor="#FFF"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="@+id/button"
